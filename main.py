@@ -9,7 +9,6 @@ def check_domain_availability(domain):
   
     endpoint = "https://api.domainsdb.info/v1/domains/search"
     params = {'query': domain}
-
     
     response = requests.get(endpoint, params=params)
 
