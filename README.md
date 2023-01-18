@@ -10,3 +10,8 @@ This script is a domain availability checker that uses GPT-3 to generate unique 
 4.) enter keywords<br>
 5.) enter short business description<br>
 6.) wait for results<br>
+<br>
+<h1>Development Ideas</h1>
+- cut prompt into 3 different prompts, each one for different name style<br>
+- add a feature where it would also include synonyms of provided keywords<br>
+- build it as a web app with UI
