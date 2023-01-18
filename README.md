@@ -15,3 +15,6 @@ This script is a domain availability checker that uses GPT-3 to generate unique 
 - cut prompt into 3 different prompts, each one for different name style<br>
 - add a feature where it would also include synonyms of provided keywords<br>
 - build it as a web app with UI
+- check for other TLDs
+- speed up the process
+- export domains in .txt file
